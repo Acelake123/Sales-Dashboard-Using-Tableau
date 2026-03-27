@@ -52,7 +52,7 @@ Before development, mockups were created to plan the visual structure and contai
 
 **Sales & Customer Mockup** — Used to plan the overall layout and placement of key elements.
 
-![Sales & Customer Mockup](https://github.com/Acelake123/Sales-Dashboard-Using-Tableau/blob/d01e601dacc77066701d3bf50c33836d64a92c6a/images/Sales_%26_Customer_Mockup.png)
+![Sales & Customer Mockup](https://github.com/Acelake123/Sales-Dashboard-Using-Tableau/blob/36b04bb8ee0ed80fff4d28414a8867f20465d439/images/Sales_%26_Customer_Mockup.png)
 
 **Container Mockup** — Outlines the vertical and horizontal container structure for a flexible, organised layout.
 
