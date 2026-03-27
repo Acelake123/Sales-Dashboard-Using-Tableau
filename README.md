@@ -52,11 +52,11 @@ Before development, mockups were created to plan the visual structure and contai
 
 **Sales & Customer Mockup** — Used to plan the overall layout and placement of key elements.
 
-![Sales & Customer Mockup](https://github.com/assets/6f0dcd3d-180e-4ce4-b138-b69ff06ea9f5)
+![Sales & Customer Mockup](https://github.com/Acelake123/Sales-Dashboard-Using-Tableau/blob/d01e601dacc77066701d3bf50c33836d64a92c6a/images/Sales_%26_Customer_Mockup.png)
 
 **Container Mockup** — Outlines the vertical and horizontal container structure for a flexible, organised layout.
 
-![Container Mockup](https://github.com/assets/9ad05eeb-aa29-4822-8e07-5f8a2f801e75)
+![Container Mockup](https://github.com/Acelake123/Sales-Dashboard-Using-Tableau/blob/d01e601dacc77066701d3bf50c33836d64a92c6a/images/Container_Mockup.png)
 
 ### Interactivity
 
@@ -102,11 +102,11 @@ Users can filter all data by:
 
 **Sales Dashboard**
 
-![Sales Dashboard](https://github.com/assets/c6f37aaa-c069-43de-9440-85da6cefb362)
+![Sales Dashboard](https://github.com/Acelake123/Sales-Dashboard-Using-Tableau/blob/e798744d8ed6ab9dc44999fa354490e5001b51c5/images/Sales_Dashboard.png)
 
 **Customer Dashboard**
 
-![Customer Dashboard](https://github.com/assets/5fd66a43-48e5-4fb1-9300-6671a765668a)
+![Customer Dashboard](https://github.com/Acelake123/Sales-Dashboard-Using-Tableau/blob/e798744d8ed6ab9dc44999fa354490e5001b51c5/images/Customer_Dashboard.png)
 
 ---
 
