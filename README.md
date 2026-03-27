@@ -98,6 +98,18 @@ Users can filter all data by:
 
 ---
 
+## Results
+
+**Sales Dashboard**
+
+![Sales Dashboard](https://github.com/Acelake123/Sales-Dashboard-Using-Tableau/blob/e798744d8ed6ab9dc44999fa354490e5001b51c5/images/Sales_Dashboard.png)
+
+**Customer Dashboard**
+
+![Customer Dashboard](https://github.com/Acelake123/Sales-Dashboard-Using-Tableau/blob/e798744d8ed6ab9dc44999fa354490e5001b51c5/images/Customer_Dashboard.png)
+
+---
+
 ## Repository Structure
 
 ```
